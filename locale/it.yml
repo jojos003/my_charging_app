@@ -1,0 +1,6 @@
+---
+it:
+  home:
+    greatings: Ciao %1$s
+    title: Ciao mondo
+...

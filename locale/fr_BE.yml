@@ -1,0 +1,6 @@
+---
+fr_BE:
+  home:
+    greatings: Salut %1$s
+    title: Bonjour le monde
+...

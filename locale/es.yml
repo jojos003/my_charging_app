@@ -1,0 +1,6 @@
+---
+es:
+  home:
+    greatings: Hola %1$s
+    title: Hola Mundo
+...
