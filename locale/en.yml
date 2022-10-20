@@ -1,4 +1,5 @@
 ---
 en:
+  greating: Hi {{name}}
   hello: Hello world
 ...
