@@ -1,4 +1,5 @@
 ---
 it:
+  greating: Ciao {{name}}
   hello: Ciao mondo
 ...

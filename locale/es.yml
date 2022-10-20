@@ -1,0 +1,5 @@
+---
+es:
+  greating: Hola {{name}}
+  hello: Hola Mundo
+...
