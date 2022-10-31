@@ -1,0 +1,6 @@
+---
+nl:
+  home:
+    greatings: Hallo {name}
+    title: Hallo Wereld
+...
