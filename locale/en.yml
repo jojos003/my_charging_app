@@ -1,0 +1,10 @@
+---
+en:
+  home:
+    greating_count:
+      zero: We do not have greating yet!
+      one: Only one greating here.
+      other: '{count} greatings!'
+    greatings: Hi {name}
+    title: Hello World
+...
