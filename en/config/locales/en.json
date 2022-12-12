@@ -1,0 +1,4 @@
+{
+  "home:greatings": "Hi %{name}",
+  "home:title": "Hello World"
+}
