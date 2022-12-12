@@ -4,6 +4,6 @@ class ApplicationController < ActionController::Base
   def set_locale
     locale = params[:locale] || I18n.default_locale
 
-    I18n.locale = locale
+    I18n.locale = locale.to_sym
   end
 end
